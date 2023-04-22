@@ -1,5 +1,15 @@
 # 💫 About Me:
-Olá, bem-vindo(a) ao meu cantinho do GitHub! Sou Desenvolvedor Full-Stack em Formação | HTML | CSS | JavaScript | React | API-REST | Context-API | TypeScript | POSTGRESQL | TypeORM | Django-Rest-FrameWork | MongoDB | GitHub | GitFlow | Scrum - Metodologias Ágeis |
+Olá, seja bem-vindo(a) ao meu cantinho do GitHub! Sou Desenvolvedor Full-Stack em Formação cursando na Kenzie Academy Brasil. No momento estou focado bastante no Back-End onde estou desenvolvendo várias interfaces de programação de aplicações (API) Restful usando banco de dados como dbsqlite (desenvolvimento) e POSTGRES (desenvolvimento e produção). 
+
+Não conheço todas as tecnlogias do mercado, mas me adapto facilmente a elas por meio da pesquisa e curiosidade. Gosto de me aventurar nas tecnologias, conhecê-las e me desafiar constantemente a aprender cada vez mais!
+
+A lingugem que me aventuro para desenvolver API's são JavaScript, TypeScript e Python usando bibliotecas como TypeORM e Django, e claro, um trabalho em equipe usando a boa prática de Metodologias Ágeis/Scrum aliado com as boas práticas de código Clean Code e GitFlow.
+
+Sou uma pessoa extorvertida, gosto de praticar um futsal (pelada) todo final de semana (nem todo 😁) e sair com amigos, sou descontraído e me adapto bem a diferentes situações. Prezo muito pelo bem-estar psicológico e gosto muito de ter amizades que somam e trabalhem em equipe.
+
+Caso queira conversar comigo para bater um papo sobre Fit Cultural e HardSkill's, estarei a disposição assim que possível! 
+
+Abaixo segue minhas Redes Sociais:
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hermersonlandim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hermerson_landim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hermersonlandim/) 
