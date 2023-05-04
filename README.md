@@ -7,7 +7,7 @@ A lingugem que me aventuro para desenvolver API's são JavaScript, TypeScript e 
 
 Sou uma pessoa extorvertida, gosto de praticar um futsal (pelada) todo final de semana (nem todo 😁) e sair com amigos, sou descontraído e me adapto bem a diferentes situações. Prezo muito pelo bem-estar psicológico e gosto muito de ter amizades que somam e trabalhem em equipe.
 
-Caso queira conversar comigo para bater um papo sobre Fit Cultural e HardSkill's, estarei a disposição assim que possível! 
+Caso queira conversar comigo para bater um papo sobre Fit Cultural e HardSkill's, estarei a disposição! 
 
 Abaixo segue minhas Redes Sociais:
 
