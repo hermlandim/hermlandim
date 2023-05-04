@@ -1,7 +1,11 @@
 # 💫 About Me:
-Olá, seja bem-vindo(a) ao meu cantinho do GitHub! Sou Desenvolvedor Full-Stack em Formação cursando na Kenzie Academy Brasil. No momento estou focado bastante no Back-End onde estou desenvolvendo várias interfaces de programação de aplicações (API) Restful usando banco de dados como dbsqlite (desenvolvimento) e POSTGRES (desenvolvimento e produção). 
+Experiência Em HTML, CSS, Javascript, React, Redux, Typescript, Context-API;
+Experiência Em Nodejs, Express, Postgresql, API Rest, Python, Django, Mongodb, Amazon AWS;
 
-Não conheço todas as tecnlogias do mercado, mas me adapto facilmente a elas por meio da pesquisa e curiosidade. Gosto de me aventurar nas tecnologias, conhecê-las e me desafiar constantemente a aprender cada vez mais!
+Vivência em Utilização de Metodologias Ágeis, Projetos Individuais e em Equipe Utilizando Boas Práticas 
+como Componentização, Hooks, State Management, Programação Funcional, Programação Assíncrona, Noções de Ux, Clean Code, Javascript e CSS Avançado;
+
+Domínio Em Inglês Técnico e Cursando Inglês Conversativo.
 
 A lingugem que me aventuro para desenvolver API's são JavaScript, TypeScript e Python usando bibliotecas como TypeORM e Django, e claro, um trabalho em equipe usando a boa prática de Metodologias Ágeis/Scrum aliado com as boas práticas de código Clean Code e GitFlow.
 
