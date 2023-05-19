@@ -19,10 +19,6 @@ Abaixo segue minhas Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermersonlandim/)
 
-<a href="https://www.linkedin.com/in/hermersonlandim/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 
 
 # 💻 Tech Stack:
