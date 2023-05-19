@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experiência Em HTML, CSS, Javascript, React, Redux, Typescript, Context-API;
+Experiência Em HTML, CSS, Javascript, React, Redux, Typescript, Context-API; <br>
 Experiência Em Nodejs, Express, Postgresql, API Rest, Python, Django, Mongodb, Amazon AWS;
 
 Vivência em Utilização de Metodologias Ágeis, Projetos Individuais e em Equipe Utilizando Boas Práticas 
