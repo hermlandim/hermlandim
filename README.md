@@ -6,7 +6,7 @@ Conhecimento em MongoDB, Amazon AWS
 Vivência em Utilização de Metodologias Ágeis, Projetos Individuais e em Equipe Utilizando Boas Práticas 
 como Componentização, Hooks, State Management, Programação Funcional, Programação Assíncrona, Noções de Ux, Clean Code, Javascript e CSS;
 
-Domínio Em Inglês Técnico e Cursando Inglês Conversativo.
+<!-- Domínio Em Inglês Técnico e Cursando Inglês Conversativo. -->
 
 A lingugem que me aventuro para desenvolver API's são JavaScript, TypeScript e Python usando bibliotecas como Express (JavaScript) e Django (Python), e claro, um trabalho em equipe usando a boa prática de Metodologias Ágeis/Scrum aliado com as boas práticas de código Clean Code e GitFlow.
 
