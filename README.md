@@ -17,4 +17,5 @@ Atuo com arquitetura de microsserviços em TypeScript, APIs REST, autenticação
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hermlandim&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hermlandim&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hermlandim&layout=compact&theme=dark&hide_border=true)
